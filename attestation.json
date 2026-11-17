@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.networld",
+  "repo": "NDesumeur/neodex-plugin-networld-phone",
+  "version": "1.0.0",
+  "sha256": "ed7d38cd70387ace04c6119656c528021dfa01eab79624142b52d8a33a332307",
+  "approvedAt": "2026-11-17T18:40:03.433Z",
+  "neobase": ">=4.0.0",
+  "signature": "miqQ+T8C+EgmwHzbNjo0E33GTY6xqruknhF4lR9/xKhFKi/1rblDCuCGGgxdSXwWJyye5+04kvvzgdt7AdIMBg=="
+}
